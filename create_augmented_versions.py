@@ -5,7 +5,7 @@ import soundfile as sf
 if __name__ == '__main__':
 
     # replace by path of unprocessed piano file if necessar
-    fn_wav_source = 'ableton_live_grand_piano.wav'
+    fn_wav_source = 'live_grand_piano.wav'
 
     # augmentation settings using Pedalboard library
     settings = {'rev-': [Reverb(room_size=.4)],
