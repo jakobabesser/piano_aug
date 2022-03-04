@@ -18,7 +18,7 @@ settings except from the “Reverb Amount” being set to zero. We use the [peda
 ## Files
 
 - Audio Files
-  - ```live_grand_piano.wav``` - Unprocessed piano recording (download at [https://zenodo.org/6327395](https://zenodo.org/record/6327395))
+  - ```live_grand_piano.wav``` - Unprocessed piano recording (download at [https://zenodo.org/record/6327395](https://zenodo.org/record/6327395))
   - ```live_grand_piano_comp-.wav``` - Mild compression
   - ```live_grand_piano_comp+.wav``` - Stronger compression
   - ```live_grand_piano_gain-.wav``` - Mild gain
@@ -29,8 +29,8 @@ settings except from the “Reverb Amount” being set to zero. We use the [peda
   - ```live_grand_piano_rev+.wav``` - Stronger reverb
 
 - Annotation Files
-  - ```live_grand_piano.mid``` - Corresponding MIDI file (download at [https://zenodo.org/6327395](https://zenodo.org/record/6327395))
-  - ```notes.csv``` - Note metadata (download at [https://zenodo.org/6327395](https://zenodo.org/record/6327395))
+  - ```live_grand_piano.mid``` - Corresponding MIDI file (download at [https://zenodo.org/record/6327395](https://zenodo.org/record/6327395))
+  - ```notes.csv``` - Note metadata (download at [https://zenodo.org/record/6327395](https://zenodo.org/record/6327395))
 
 
     - columns:
